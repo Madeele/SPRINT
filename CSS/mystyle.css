@@ -1,0 +1,157 @@
+.wrapper_container {
+    margin: 0 auto 0 auto;
+    padding: 0 10px 0 10px;
+    max-width: 90%;
+}
+
+.header_container {
+    width: 100%;
+    height: auto;
+    margin: 15px 0 15px 0;
+}
+
+.navigation_container {
+    display: flex;
+    justify-content: space-between;
+    font-size: 2.5vw;
+}
+
+.olufs_text {
+    color: white;
+    font-size: 10vw;
+    text-align: center;
+    padding: auto;
+    margin: 20% auto auto auto;
+    font-family: 'PT Sans Caption', sans-serif;
+}
+
+.navigation_element {
+    color: white;
+    font-family: 'PT Sans Caption', sans-serif;
+}
+
+.call_to_action {
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    top: 15%;
+    right: 0;
+    text-align: center;
+    background: black;
+    background-color: #57b7cb;
+    padding: 10px 15px 10px 15px;
+    width: 250px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+.call_to_action:hover {
+    background-color: #ffffff;
+    color: #57b7cb;
+}
+
+
+body {
+    background-image:url(background.png);
+    background-size: cover;
+}
+
+.hours_image {
+    width: 20%;
+    max-width: 20%;
+    float: right;
+    padding-top: 5%;
+    position: absolute;
+    right: 0;
+}
+
+.ice_image {
+    width: 40%;
+    max-width: 40%;
+    padding-left: 0px;
+    position: absolute;
+    float: left;
+    left: 0;
+}
+
+.box {
+    float: right;
+    padding-right: 5%;
+    padding-top: 20%;
+    padding-left: 90%;
+
+
+}
+
+h1 {
+    font-size: 9vw;
+    color: white;
+    position:relative;
+    margin-bottom: 5px;
+    text-align: right;
+        font-family: 'PT Sans Caption', sans-serif;
+
+}
+
+h2 {
+    font-size: 6vw;
+    color: white;
+    position: relative;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: right;
+        font-family: 'PT Sans Caption', sans-serif;
+
+}
+
+h3 {
+    font-size: 11vw;
+    color: yellow;
+    position: relative;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: right;    font-family: 'PT Sans Caption', sans-serif;
+
+
+}
+
+.box2 {
+    float: right;
+    padding-right: 5%;
+    padding-top:;
+}
+
+h4 {
+    font-size: 3vw;
+    color: #603813;
+    opacity: 0.68;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: right;
+        font-family: 'PT Sans Caption', sans-serif;
+
+}
+
+h5 {
+    font-size: 3vw;
+    color: #603813;
+    margin-top: 15px;
+    text-align: right;
+    padding-bottom: 5%;
+        font-family: 'PT Sans Caption', sans-serif;
+
+}
+
+.footer_image {
+    float: right;
+    right: 0;
+    vertical-align: bottom;
+    width: 100%;
+    max-width: 100%;
+    padding-top: 10%;
+    margin-top: 7%;
+}
+
+html, body {
+margin:0;
+padding:0;
+}
